@@ -1,2 +1,0 @@
-# vite-app
- learning vite
